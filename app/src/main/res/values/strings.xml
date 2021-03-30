@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">ViewModelKt</string>
+    <string name="tvLength">Panjang</string>
+    <string name="tvLengthEx">Cth: 0.5</string>
+    <string name="tvWidth">Lebar</string>
+    <string name="tvWidthEx">Cth: 0.5</string>
+    <string name="tvHeight">Tinggi</string>
+    <string name="tvHeightEx">Cth: 0.5</string>
+    <string name="tvResult">Hasil</string>
+
+    <!--buttons-->
+    <string name="btnCalculate">Hitung</string>
+
 </resources>
